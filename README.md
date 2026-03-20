@@ -6,6 +6,10 @@ Repositório de estudos do workshop de Python com foco em Back-End, cobrindo des
 
 ## 📋 Sumário
 
+<table>
+<tr>
+<td>
+
 1. [O que é Python?](#1-o-que-é-python)
 2. [Variáveis e Tipos de Dados](#2-variáveis-e-tipos-de-dados)
 3. [Entrada e Saída de Dados](#3-entrada-e-saída-de-dados)
@@ -13,6 +17,10 @@ Repositório de estudos do workshop de Python com foco em Back-End, cobrindo des
 5. [Estruturas Condicionais](#5-estruturas-condicionais)
 6. [Estruturas de Repetição](#6-estruturas-de-repetição)
 7. [Listas, Tuplas, Dicionários e Conjuntos](#7-listas-tuplas-dicionários-e-conjuntos)
+
+</td>
+<td>
+
 8. [Funções](#8-funções)
 9. [Programação Orientada a Objetos (POO)](#9-programação-orientada-a-objetos-poo)
 10. [Módulos e Bibliotecas](#10-módulos-e-bibliotecas)
@@ -20,6 +28,10 @@ Repositório de estudos do workshop de Python com foco em Back-End, cobrindo des
 12. [Tipos Comuns de Erros](#12-tipos-comuns-de-erros)
 13. [Convenções de Nomenclatura (PEP 8)](#13-convenções-de-nomenclatura-pep-8)
 14. [Ambiente Virtual (venv)](#14-ambiente-virtual-venv)
+
+</td>
+</tr>
+</table>
 
 ---
 
